@@ -1,1 +1,1 @@
-chapter04/pic_carver.py now uses the opencv-python library instead of cv2. The "cv2.cv" module was deprecated and has been replaced. The parameter "cv2.cv.CV_HAAR_SCALE_IMAGE" from the original code was replaced by "cv2.CASCADE_SCALE_IMAGE" because of this commit.
+The Network with SCAPY/pic_carver.py now uses the opencv-python library instead of cv2. The "cv2.cv" module was deprecated and has been replaced. The parameter "cv2.cv.CV_HAAR_SCALE_IMAGE" from the original code was replaced by "cv2.CASCADE_SCALE_IMAGE" 
